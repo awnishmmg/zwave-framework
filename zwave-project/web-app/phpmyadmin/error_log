@@ -1,0 +1,2 @@
+[06-May-2021 16:25:34 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[06-May-2021 16:25:34 UTC] PHP Fatal error:  Unknown: Failed opening required 'hooks/prepend.php' (include_path='./') in Unknown on line 0

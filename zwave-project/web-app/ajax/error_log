@@ -1,0 +1,406 @@
+[24-Apr-2021 16:23:46 UTC] PHP Notice:  Undefined index:  in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/prepend.php on line 24
+[24-Apr-2021 16:23:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/prepend.php on line 25
+[24-Apr-2021 21:53:46 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/prepend.php on line 24
+[24-Apr-2021 21:53:46 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/prepend.php on line 25
+[24-Apr-2021 21:53:46 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/prepend.php on line 24
+[24-Apr-2021 21:53:46 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/prepend.php on line 25
+[24-Apr-2021 21:53:46 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/prepend.php on line 24
+[24-Apr-2021 21:53:46 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/prepend.php on line 25
+[24-Apr-2021 21:53:46 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/prepend.php on line 24
+[24-Apr-2021 21:53:46 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/prepend.php on line 25
+[24-Apr-2021 21:53:46 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/append.php on line 24
+[24-Apr-2021 21:53:46 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/append.php on line 25
+[24-Apr-2021 21:54:36 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/prepend.php on line 24
+[24-Apr-2021 21:54:36 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/prepend.php on line 25
+[24-Apr-2021 21:54:36 Asia/Kolkata] PHP Warning:  include_once(constant error): failed to open stream: No such file or directory in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/prepend.php on line 26
+[24-Apr-2021 21:54:36 Asia/Kolkata] PHP Warning:  include_once(): Failed opening 'constant error' for inclusion (include_path='../') in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/prepend.php on line 26
+[24-Apr-2021 21:54:36 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/prepend.php on line 24
+[24-Apr-2021 21:54:36 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/prepend.php on line 25
+[24-Apr-2021 21:54:36 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/prepend.php on line 24
+[24-Apr-2021 21:54:36 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/prepend.php on line 25
+[24-Apr-2021 21:54:36 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/prepend.php on line 24
+[24-Apr-2021 21:54:36 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/prepend.php on line 25
+[24-Apr-2021 21:54:36 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/prepend.php on line 24
+[24-Apr-2021 21:54:36 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/prepend.php on line 25
+[24-Apr-2021 21:54:36 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/append.php on line 24
+[24-Apr-2021 21:54:36 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/append.php on line 25
+[24-Apr-2021 22:09:30 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/append.php on line 26
+[24-Apr-2021 22:09:30 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/hooks/append.php on line 27
+[27-Apr-2021 22:57:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-add.php on line 9
+[27-Apr-2021 23:08:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Company_model::addCompany() in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-add.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-add.php on line 13
+[27-Apr-2021 23:10:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Company_model::getlatestRecord() in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-add.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-add.php on line 14
+[28-Apr-2021 01:21:43 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 10
+[28-Apr-2021 01:21:43 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 10
+[28-Apr-2021 01:21:43 Asia/Kolkata] PHP Notice:  Undefined variable: accounts in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 20
+[28-Apr-2021 01:21:43 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 20
+[28-Apr-2021 02:02:18 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:02:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:03:13 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:03:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:03:15 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:03:15 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:03:18 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:03:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:11:12 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:11:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:11:15 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:11:15 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:11:45 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:11:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:11:59 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:11:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:12:12 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:12:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:12:16 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:12:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:13:04 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:13:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:13:10 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:13:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:13:22 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:13:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:14:08 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:14:08 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:14:34 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:14:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:14:44 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:14:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:15:00 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:15:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:21:55 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:21:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:22:00 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:22:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:22:03 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:22:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:59:45 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:59:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:59:47 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 02:59:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 04:02:18 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 04:02:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 04:02:22 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 04:02:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 04:38:44 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 04:38:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:06:52 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:06:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:06:59 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:06:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:07:04 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:07:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:10:30 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:10:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:10:45 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:10:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:10:51 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:10:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:12:35 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:12:35 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:12:37 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:12:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:16:48 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:16:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:21:39 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:21:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:21:46 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:21:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:22:30 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:22:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:23:39 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:23:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:27:56 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:27:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:30:37 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:30:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:30:53 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:30:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:31:21 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:31:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:31:54 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:31:54 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:34:24 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:34:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:34:40 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:34:40 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:35:24 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:35:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:35:49 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:35:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:36:51 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:36:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:41:47 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:41:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:41:58 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:41:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:43:28 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:43:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:48:07 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:48:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:49:29 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:49:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:50:18 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:50:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:51:14 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:51:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:51:52 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:51:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:52:58 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:52:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:54:13 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:54:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:56:56 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 13:56:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:00:02 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:00:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:00:19 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:00:19 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:10:29 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:10:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:12:07 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:12:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:14:20 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:14:20 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:14:56 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:14:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:15:47 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:15:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:17:21 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:17:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:17:56 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:17:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:19:44 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:19:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:20:44 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:20:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:21:19 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:21:19 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:39:18 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:39:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:41:44 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:41:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:41:57 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:41:57 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:42:43 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:42:43 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:43:20 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:43:20 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:44:52 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:44:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 24
+[28-Apr-2021 14:45:31 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 26
+[28-Apr-2021 14:45:31 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 26
+[28-Apr-2021 14:45:48 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 26
+[28-Apr-2021 14:45:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 26
+[28-Apr-2021 14:46:37 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 26
+[28-Apr-2021 14:46:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 26
+[28-Apr-2021 14:47:09 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 14:47:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 14:48:13 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 14:48:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 14:48:21 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 14:48:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 14:49:38 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 14:49:38 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 14:49:56 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 14:49:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 14:50:46 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 14:50:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 14:52:03 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 14:52:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 14:53:50 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 14:53:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 14:54:11 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 14:54:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:06:29 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:06:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:07:00 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:07:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:08:15 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:08:15 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:09:36 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:09:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:09:48 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:09:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:10:30 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:10:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:10:43 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:10:43 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:11:31 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:11:31 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:12:18 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:12:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:12:31 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:12:31 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:13:09 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:13:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:13:20 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:13:20 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:13:28 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:13:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:14:17 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:14:17 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:15:08 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:15:08 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:17:43 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:17:43 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:18:28 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:18:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:19:24 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:19:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:23:27 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:23:27 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:23:34 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:23:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:23:39 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:23:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:23:59 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:23:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:24:02 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:24:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:24:35 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:24:35 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:26:48 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:26:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:27:32 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:27:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:27:48 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:27:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:28:02 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:28:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:28:13 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:28:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:31:07 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:31:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:40:10 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:40:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:42:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ':' in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-delete.php on line 12
+[28-Apr-2021 15:43:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ':' in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-delete.php on line 12
+[28-Apr-2021 15:44:39 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:44:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:49:16 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:49:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:49:43 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:49:43 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:50:13 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:50:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:50:32 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:50:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:50:41 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:50:41 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:50:46 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 15:50:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 16:12:09 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 16:12:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 16:15:29 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 16:15:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 16:15:48 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 16:15:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 16:51:32 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 16:51:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 20:54:00 Asia/Kolkata] PHP Notice:  Undefined variable: data in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-notification-company-get.php on line 17
+[28-Apr-2021 20:54:00 Asia/Kolkata] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/library/validation.class.php on line 41
+[28-Apr-2021 20:54:00 Asia/Kolkata] PHP Notice:  Undefined variable: data in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-notification-company-get.php on line 17
+[28-Apr-2021 20:54:00 Asia/Kolkata] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/library/validation.class.php on line 41
+[28-Apr-2021 20:54:00 Asia/Kolkata] PHP Notice:  Undefined variable: data in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-notification-company-get.php on line 17
+[28-Apr-2021 20:54:00 Asia/Kolkata] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/library/validation.class.php on line 41
+[28-Apr-2021 20:54:00 Asia/Kolkata] PHP Notice:  Undefined variable: data in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-notification-company-get.php on line 17
+[28-Apr-2021 20:54:00 Asia/Kolkata] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/library/validation.class.php on line 41
+[28-Apr-2021 20:54:18 Asia/Kolkata] PHP Notice:  Undefined variable: data in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-notification-company-get.php on line 17
+[28-Apr-2021 20:54:18 Asia/Kolkata] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/library/validation.class.php on line 41
+[28-Apr-2021 20:54:18 Asia/Kolkata] PHP Notice:  Undefined variable: data in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-notification-company-get.php on line 17
+[28-Apr-2021 20:54:18 Asia/Kolkata] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/library/validation.class.php on line 41
+[28-Apr-2021 20:54:18 Asia/Kolkata] PHP Notice:  Undefined variable: data in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-notification-company-get.php on line 17
+[28-Apr-2021 20:54:18 Asia/Kolkata] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/library/validation.class.php on line 41
+[28-Apr-2021 20:54:18 Asia/Kolkata] PHP Notice:  Undefined variable: data in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-notification-company-get.php on line 17
+[28-Apr-2021 20:54:18 Asia/Kolkata] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/library/validation.class.php on line 41
+[28-Apr-2021 21:58:56 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[28-Apr-2021 21:58:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[29-Apr-2021 15:28:24 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function encrypt_password() in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/admin-setting-reset-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/admin-setting-reset-password.php on line 11
+[29-Apr-2021 15:28:32 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function encrypt_password() in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/admin-setting-reset-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/admin-setting-reset-password.php on line 11
+[29-Apr-2021 15:29:05 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function password_encrypt() in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/admin-setting-reset-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/admin-setting-reset-password.php on line 11
+[29-Apr-2021 15:29:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function encrypt_pass() in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/admin-setting-reset-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/admin-setting-reset-password.php on line 11
+[29-Apr-2021 15:29:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function encrypt_pass() in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/admin-setting-reset-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/admin-setting-reset-password.php on line 11
+[29-Apr-2021 21:19:59 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[29-Apr-2021 21:19:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[29-Apr-2021 21:20:06 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[29-Apr-2021 21:20:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[29-Apr-2021 21:34:11 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[29-Apr-2021 21:34:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[30-Apr-2021 13:26:27 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[30-Apr-2021 13:26:27 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[30-Apr-2021 13:26:33 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[30-Apr-2021 13:26:33 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[06-May-2021 15:26:00 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[06-May-2021 15:26:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[06-May-2021 15:26:05 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[06-May-2021 15:26:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[06-May-2021 18:09:30 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[06-May-2021 18:09:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[06-May-2021 19:21:59 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[06-May-2021 19:21:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[06-May-2021 19:22:03 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[06-May-2021 19:22:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[06-May-2021 19:22:08 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[06-May-2021 19:22:08 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[06-May-2021 21:21:04 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[06-May-2021 21:21:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[06-May-2021 21:50:01 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[06-May-2021 21:50:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[06-May-2021 21:50:03 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[06-May-2021 21:50:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[11-May-2021 18:29:35 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[11-May-2021 18:29:35 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[11-May-2021 18:30:45 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[11-May-2021 18:30:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[11-May-2021 18:37:27 Asia/Kolkata] PHP Notice:  Undefined variable: account in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[11-May-2021 18:37:27 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/user-company-get.php on line 27
+[21-May-2021 11:43:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/admin-create-contact.php on line 9
+[21-May-2021 11:43:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/admin-create-contact.php on line 9
+[21-May-2021 11:43:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/admin-create-contact.php on line 9
+[21-May-2021 12:22:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Contacts_model::prx() in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/admin-create-contact.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/admin-create-contact.php on line 14
+[21-May-2021 12:22:37 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Contacts_model::prx() in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/admin-create-contact.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/admin-create-contact.php on line 14
+[21-May-2021 12:23:49 Asia/Kolkata] PHP Notice:  Undefined variable: user_id in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/model/admin/Contacts_model.php on line 164
+[21-May-2021 12:36:45 Asia/Kolkata] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/model/admin/Contacts_model.php:163
+Stack trace:
+#0 /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/admin-create-contact.php(12): Contacts_model->createContact('', Array)
+#1 {main}
+  thrown in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/model/admin/Contacts_model.php on line 163
+[21-May-2021 12:38:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/model/admin/Contacts_model.php:163
+Stack trace:
+#0 /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/admin-create-contact.php(12): Contacts_model->createContact('', Array)
+#1 {main}
+  thrown in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/model/admin/Contacts_model.php on line 163
+[21-May-2021 12:40:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/model/admin/Contacts_model.php:161
+Stack trace:
+#0 /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/ajax/admin-create-contact.php(12): Contacts_model->createContact('', Array)
+#1 {main}
+  thrown in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/model/admin/Contacts_model.php on line 161
+[21-May-2021 13:22:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/model/admin/Contacts_model.php on line 177
+[21-May-2021 13:22:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/u323470395/domains/chatbot.way2mint.in/public_html/web-app/model/admin/Contacts_model.php on line 177

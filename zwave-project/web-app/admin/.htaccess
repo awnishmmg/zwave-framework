@@ -1,0 +1,78 @@
+RewriteEngine On
+php_value include_path '../'
+
+#Configuration for File Uploading
+
+php_value session.gc_maxlifetime 10800
+php_value max_input_time         10800
+php_value max_execution_time     10800
+php_value upload_max_filesize    110M
+php_value post_max_size          120M
+
+#Rewrite Rules
+
+#Partners Section
+
+RewriteRule ^(partners)/([a-zA-Z0-9\-]+)/([a-zA-Z0-9\-/]+)$ partners.php?_method=$2&_values=$3 [L,QSA]
+RewriteRule ^(partners)/([a-zA-Z0-9\-]+)$ partners.php?_method=$2 [L,QSA]
+
+#Uploading Section
+RewriteRule ^(raw-uploads)$ raw-uploads.php [L,QSA]
+RewriteRule ^(uploads)/([a-zA-Z0-9\-]+)/([a-zA-Z0-9\-/]+)$ uploads.php?_method=$2&_values=$3 [L,QSA]
+RewriteRule ^(uploads)/([a-zA-Z0-9\-]+)$ uploads.php?_method=$2 [L,QSA]
+
+#manage-miscall
+
+RewriteRule ^(manage-misscall)/([a-zA-Z0-9\-]+)/([a-zA-Z0-9\-/]+)$ manage-misscall.php?_method=$2&_values=$3 [L,QSA]
+RewriteRule ^(manage-misscall)/([a-zA-Z0-9\-]+)$ manage-misscall.php?_method=$2 [L,QSA]
+
+#dashboard
+
+RewriteRule ^(dashboard)/([a-zA-Z0-9\-]+)/([a-zA-Z0-9\-/]+)$ dashboard.php?_method=$2&_values=$3 [L,QSA]
+RewriteRule ^(dashboard)/([a-zA-Z0-9\-]+)$ dashboard.php?_method=$2 [L,QSA]
+
+#manage-user
+
+RewriteRule ^(manage-user)/([a-zA-Z0-9\-]+)/([a-zA-Z0-9\-/]+)$ manage-user.php?_method=$2&_values=$3 [L,QSA]
+RewriteRule ^(manage-user)/([a-zA-Z0-9\-]+)$ manage-user.php?_method=$2 [L,QSA]
+
+#department
+
+RewriteRule ^(department)/([a-zA-Z0-9\-]+)/([a-zA-Z0-9\-/]+)$ department.php?_method=$2&_values=$3 [L,QSA]
+RewriteRule ^(department)/([a-zA-Z0-9\-]+)$ department.php?_method=$2 [L,QSA]
+
+#SMS Integrations
+RewriteRule ^(integration)/([a-zA-Z0-9\-]+)/([a-zA-Z0-9\-/]+)$ integration.php?_method=$2&_values=$3 [L,QSA]
+RewriteRule ^(integration)/([a-zA-Z0-9\-]+)$ integration.php?_method=$2 [L,QSA]
+
+#chat Bot
+RewriteRule ^(chat-bot)/([a-zA-Z0-9\-]+)/([a-zA-Z0-9\-/]+)$ chat-bot.php?_method=$2&_values=$3 [L,QSA]
+RewriteRule ^(chat-bot)/([a-zA-Z0-9\-]+)$ chat-bot.php?_method=$2 [L,QSA]
+
+#change Login
+RewriteRule ^(change-login)/([a-zA-Z0-9\-]+)/([a-zA-Z0-9\-/]+)$ change-login.php?_method=$2&_values=$3 [L,QSA]
+RewriteRule ^(change-login)/([a-zA-Z0-9\-]+)$ change-login.php?_method=$2 [L,QSA]
+
+#settings
+RewriteRule ^(setting)/([a-zA-Z0-9\-]+)/([a-zA-Z0-9\-/]+)$ setting.php?_method=$2&_values=$3 [L,QSA]
+RewriteRule ^(setting)/([a-zA-Z0-9\-]+)$ setting.php?_method=$2 [L,QSA]
+
+#Contacts Person
+
+RewriteRule ^(contacts)/([a-zA-Z0-9\-]+)/([a-zA-Z0-9\-/]+)$ contacts.php?_method=$2&_values=$3 [L,QSA]
+RewriteRule ^(contacts)/([a-zA-Z0-9\-]+)$ contacts.php?_method=$2 [L,QSA]
+
+
+#Support Tools Converter
+
+RewriteRule ^(tools)/([a-zA-Z0-9\-]+)/([a-zA-Z0-9\-/]+)$ tools.php?_method=$2&_values=$3 [L,QSA]
+RewriteRule ^(tools)/([a-zA-Z0-9\-]+)$ tools.php?_method=$2 [L,QSA]
+
+#Compaign Tools
+
+RewriteRule ^(tools-compaigns)/([a-zA-Z0-9\-]+)/([a-zA-Z0-9\-/]+)$ tools-compaigns.php?_method=$2&_values=$3 [L,QSA]
+RewriteRule ^(tools-compaigns)/([a-zA-Z0-9\-]+)$ tools-compaigns.php?_method=$2 [L,QSA]
+
+
+
+

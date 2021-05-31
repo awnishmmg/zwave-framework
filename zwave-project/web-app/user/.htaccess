@@ -1,0 +1,52 @@
+RewriteEngine On
+php_value include_path '../'
+DirectoryIndex index.php index.html
+
+#All Rewrite Rules
+RewriteRule ^(activity)$ activity.php [L,QSA]
+RewriteRule ^(dashboard)$ dashboard.php [L,QSA]
+RewriteRule ^(profile)$ profile.php [L,QSA]
+RewriteRule ^(assign-misscall)$ assign-misscall.php [L,QSA]
+RewriteRule ^(logout)$ logout.php [L,QSA]
+RewriteRule ^(my-misscall-number)$ my-misscall-number.php [L,QSA]
+RewriteRule ^(my-billing)$ my-billing.php [L,QSA]
+RewriteRule ^(billing)$ billing.php [L,QSA]
+RewriteRule ^(activate-misscall)$ activate-misscall.php [L,QSA]
+RewriteRule ^(change-password)$ change-password.php [L,QSA]
+RewriteRule ^(miscall-logs)$ miscall-logs.php [L,QSA]
+RewriteRule ^(sms-api)$ sms_api.php [L,QSA]
+RewriteRule ^(smsapi_view)$ smsapi_view.php [L,QSA]
+RewriteRule ^(consolidated-logs)$ consolidated-logs.php [L,QSA]
+
+
+# Chatbot Notification
+
+RewriteRule ^(notification-create)$ notification-create.php [L,QSA]
+RewriteRule ^(notification-manage)$ notification-manage.php [L,QSA]
+RewriteRule ^(notification-edit)$ notification-edit.php [L,QSA]
+RewriteRule ^(notification-delete)$ notification-delete.php [L,QSA]
+RewriteRule ^(notification-more)$ notification-more.php [L,QSA]
+RewriteRule ^(notification-update)$ notification-update.php [L,QSA]
+
+# Accounts Created 
+RewriteRule ^(accounts-create)$ accounts-create.php [L,QSA]
+RewriteRule ^(accounts-action)$ accounts-action.php [L,QSA]
+
+#Export Download the File 
+RewriteRule ^(export_download)$ export_download.php [L,QSA]
+
+#Template Configuration
+RewriteRule ^(configure-template)$ configure-template.php [L,QSA]
+RewriteRule ^(manage-integration)$ manage-integration.php [L,QSA]
+RewriteRule ^(configured-delete)$ configured-delete.php [L,QSA]
+
+
+#Template Conversion
+RewriteRule ^(convert)$ convert.php [L,QSA]
+
+
+
+
+
+
+

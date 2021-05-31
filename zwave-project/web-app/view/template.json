@@ -1,0 +1,114 @@
+{
+	"index":{
+		"title":"Admin Dashboard",
+		"bread_title":"Admin/Dashboard"
+	},
+	"user/accounts-create":{
+		"title":"Company Account Management",
+		"bread_title":"Company Account Management"
+	},
+	"user/notification-more":{
+			"title":"Notification Information",
+		    "bread_title":"Notification Information",
+		    "bread_link":"Notification Information"
+	},
+	"web-app/login":{
+		"title":" Login In ",
+		"bread_title":"Login "
+	},
+	"user/dashboard":{
+		"title":" Client Dashboard ",
+		"bread_title":"Client Dashboard",
+		"bread_link":"Client Dashboard"
+	},
+	"user/notification-create":{
+		"title":"Create Notification",
+		"bread_title":"Create Notification",
+		"bread_link":"Create Notification"
+	},
+	"user/notification-manage":{
+		"title":"Manage Notification",
+		"bread_title":"Manage Notification",
+		"bread_link":"Manage Notification"
+	},
+	"user/profile":{
+		"title":"My Profile",
+		"bread_title":"My Account Profile",
+		"bread_link":"Quick Audits"
+	},
+	"user/notification-edit":{
+		"title":"Edit Notification",
+		"bread_title":"Edit Notification",
+		"bread_link":"Edit Notification"
+	},
+	"user/notification-more":{
+		"title":"Notification Information",
+		"bread_title":"Notification Information",
+		"bread_link":"Notification Information"
+	},
+	"user/change-password":{
+	    "title":"Change Password",
+	    "bread_title":"Change Password",
+	    "bread_link":"Change Password"
+	},
+	"user/sms-api":{
+	    "title":"App Sender Api",
+	    "bread_title":"Add Sender Api",
+	    "bread_link":"sender api"
+	},
+	"api/chatbots/":{
+	    "title":"Way2mint Chatbot Notification"
+	},
+	"user/manage-integration":{
+		"title":"Manage Integration",
+	    "bread_title":"Manage Integration",
+	    "bread_link":"Maage Integration"
+	}
+	,
+	"admin/manage-user/user":{
+		"title":"Manage User",
+	    "bread_title":"Manage User",
+	    "bread_link":"User Accounts / Users / <a href='admin/manage-user/user' class='text-primary'>Manage<a/>"
+	},
+	"admin/contacts/manage":{
+		"title":"Manage Contacts",
+	    "bread_title":"Manage Contacts",
+	    "bread_link":"Other / Contacts / <a href='admin/contacts/manage' class='text-primary'>Manage<a/>"
+	},
+	"admin/manage-user/add-new":{
+		"title":"Add New User",
+	    "bread_title":"Manage New User",
+	    "bread_link":"User Accounts / Users / <a href='admin/manage-user/add-new' class='text-primary'>Add<a/>"
+	},
+	"admin/manage-user/bds":{
+		"title":"Manage BDE's",
+	    "bread_title":"Manage BDE's",
+	    "bread_link":"User Accounts / BDE / <a href='admin/manage-user/bds' class='text-primary'>Manage<a/>"
+	},
+	"admin/manage-user/add-new-bdagent":{
+		"title":"Add New BDE",
+	    "bread_title":"Add New BDE's",
+	    "bread_link":"User Accounts / BDE / <a href='admin/manage-user/add-new-bdagent' class='text-primary'>Add<a/>"
+	},
+	"admin/department/manage":{
+		"title":"Add Department",
+	    "bread_title":"Add New Department",
+	    "bread_link":"Others / Department / <a href='admin/department/manage/view' class='text-primary'>Add<a/>"
+	},
+	"admin/contacts/add":{
+		"title":"Add New Contact",
+	    "bread_title":"Add New Contact",
+	    "bread_link":"Others / <a href='admin/contacts/manage' class='text-primary'>Contact</a> / <a href='admin/contacts/add' class='text-primary'>Add<a/>"
+	},
+	"admin/tools/xls-converter":{
+		"title":"XLS Converter",
+	    "bread_title":"XLS Converter",
+	    "bread_link":"Support Tools / XLS Converter / <a href='admin/tools/xls-converter' class='text-primary'>XLS converter<a/>"
+	},
+	"admin/tools/duplicate-removal":{
+		"title":"Duplicate Removal",
+	    "bread_title":"Duplicate Removal",
+	    "bread_link":"Support Tools / <a href='admin/tools/duplicate-removal/manage' class='text text-primary'>Duplicate Removal</a> / <a href='admin/tools/duplicate-removal/add' class='text-primary'>Add<a/>"
+	}
+	
+}

@@ -1,0 +1,25 @@
+RewriteEngine On
+php_value include_path '../'
+
+#Rewrite Rule for All the Path
+
+
+#Admin Module
+
+#User Module
+
+#Add Company
+RewriteRule ^(user/company/add)$ user-company-add.php [L,QSA]
+RewriteRule ^(user/company/get)$ user-company-get.php [L,QSA]
+RewriteRule ^(user/notification/company/get)$ user-notification-company-get.php [L,QSA]
+RewriteRule ^(user/company/delete)$ user-company-delete.php [L,QSA]
+
+#Admin Setting
+RewriteRule ^(admin/setting/reset/password)$ admin-setting-reset-password.php [L,QSA]
+RewriteRule ^(admin/setting/change/password)$ admin-setting-change-password.php [L,QSA]
+
+#Admin Contact
+RewriteRule ^(admin/create/contact)$ admin-create-contact.php [L,QSA]
+RewriteRule ^(admin/get/contacts)$ admin-get-contacts.php [L,QSA]
+
+

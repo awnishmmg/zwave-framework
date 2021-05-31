@@ -1,0 +1,26 @@
+RewriteEngine On
+php_value include_path './'
+php_value auto_prepend_file 'hooks/prepend.php'
+php_value auto_append_file 'hooks/append.php'
+DirectoryIndex index.php index.html
+
+#Comment the CheckSpelling on Local Environment
+#CheckSpelling off
+#Comment the ChecSpelling on Local Environment
+
+#Rewrite Rules for All Files
+RewriteRule ^(raw-uploads)$ raw-uploads.php
+RewriteRule ^(dashboard)$ dashboard.php
+RewriteRule ^(login)$ login.php [L,QSA]
+RewriteRule ^(index)$ index.php [L,QSA]
+
+#ChatBots Url Generator
+RewriteRule ^(chatbots)$ chatbots.php [L,QSA]
+#WhatsApp Notification Sending
+RewriteRule ^(whatsapp)$ whatsapp.php [L,QSA]
+
+
+
+
+
+
